@@ -1,1 +1,30 @@
-
+{
+  "categories": [
+    {
+      "id": "hikam",
+      "name": "Hikam",
+      "description": "Citations de sagesse"
+    },
+    {
+      "id": "love",
+      "name": "Love",
+      "description": "Citations sur l'amour"
+    },
+    {
+      "id": "women",
+      "name": "Women",
+      "description": "Citations sur les femmes"
+    },
+    {
+      "id": "dunya",
+      "name": "Dunya",
+      "description": "Citations sur la vie"
+    }
+  ],
+  "quotes": {
+    "hikam": [],
+    "love": [],
+    "women": [],
+    "dunya": []
+  }
+}
